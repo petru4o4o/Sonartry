@@ -2,12 +2,12 @@ package example;
 
 public class HelloWorld {
 
-  public void coveredByUnitTest() {
+  public static void coveredByUnitTest() {
     System.out.println("coveredByUnitTest1");
     System.out.println("coveredByUnitTest2");
   }
 
-  public void coveredByIntegrationTest() {
+  public static void coveredByIntegrationTest() {
     System.out.println("coveredByIntegrationTest1");
     System.out.println("coveredByIntegrationTest2");
     System.out.println("coveredByIntegrationTest3");
