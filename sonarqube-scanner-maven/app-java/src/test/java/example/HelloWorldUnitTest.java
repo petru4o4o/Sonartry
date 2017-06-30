@@ -8,6 +8,7 @@ public class HelloWorldUnitTest {
   public void test() {
     new HelloWorld().coveredByUnitTest();
 	new HelloWorld2().notCovered();
+	new HelloWorld2().coveredByUnitTest();
   }
 
 }
