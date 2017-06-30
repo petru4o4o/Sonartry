@@ -2,7 +2,7 @@ package example;
 
 public class HelloWorld {
 	
-  public void fakemethod
+  public void fakemethod ()
   {
 	var target =-5;
 	var num = 3;
