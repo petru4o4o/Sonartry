@@ -13,7 +13,7 @@ public class HelloWorld {
     System.out.println("coveredByIntegrationTest3");
   }
 
-  private static void notCovered() {
+  public static void notCovered() {
     System.out.println("notCovered+");
   }
 
