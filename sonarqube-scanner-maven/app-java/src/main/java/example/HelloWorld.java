@@ -19,7 +19,7 @@ public class HelloWorld {
 
 }
 
-private class HelloWorld2 extends HelloWorld
+class HelloWorld2 extends HelloWorld
 {
 	public void coveredByUnitTest() 
 	{
